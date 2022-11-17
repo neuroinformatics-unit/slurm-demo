@@ -4,6 +4,7 @@ import typer
 def multiply(first_num: int, second_num: int, jazzy: bool = False):
     """
     Multiply two numbers together.
+    blshi
     If --jazzy is used, result is announced more grandly.
     """
 
