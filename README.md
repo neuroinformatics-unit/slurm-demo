@@ -150,3 +150,4 @@ import tensorflow as tf
 tf.config.list_physical_devices('GPU')
 ```
 
+16. For fast I/O consider copying data to `/tmp` (fast NVME storage) as part of the run. Available on all of the gpu-380 and gpu-sr670 nodes.
