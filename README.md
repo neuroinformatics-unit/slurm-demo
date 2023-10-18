@@ -40,7 +40,7 @@ N.B. Don't run anything intensive on the login nodes.
 6. Clone a test script
 ```bash
 cd ~/
-git clone https://github.com/adamltyson/slurm-demo
+git clone https://github.com/neuroinformatics-unit/slurm-demo
 ```
 7. Check out list of available modules
 ```bash
