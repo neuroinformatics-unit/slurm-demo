@@ -1,3 +1,5 @@
+## This repo is now archived, and the materials have been moved [here](https://github.com/neuroinformatics-unit/course-software-skills-hpc). 
+
 ## SWC SLURM demo
 
 1. Login to gateway
